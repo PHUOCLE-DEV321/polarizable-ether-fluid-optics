@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/github/1473958354.svg)](https://doi.org/10.5281/zenodo.24577160)
 # Polarizable-Ether Fluid Optics, Extended Longitudinal Electrodynamics, and Rank-2 Elastic Shear Modes
 
 **Author:** Le Huynh Phuoc (*Independent Researcher*) · **Version:** `v1.1.1` (November 2026)
