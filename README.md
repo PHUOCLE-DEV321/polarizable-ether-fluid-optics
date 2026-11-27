@@ -9,8 +9,7 @@ Consistency audit, algebraic corrections, and numerical benchmark suite for dyna
 ```text
 .
 ├── paper/
-│   ├── ether_monograph_4337101a.pdf   # Full English monograph (v1.1.1, 12 pages, MathML equations & figures)
-│   └── cong_thuc_da_sua.md            # Corrected theoretical notes & derivation log (Vietnamese)
+│   ├── ether_monograph_4337101a.pdf   # Full English monograph (v1.1.1, 12 pages, MathML equations & figures)        
 ├── simulations/
 │   ├── mmx_refutation_sim.py          # 1887 MMX vs. Lorentz-contracting ether & anisotropy bounds
 │   ├── soliton_lorentz_sim.py         # 1D Sine-Gordon PDE: spontaneous contraction & breather time dilation
